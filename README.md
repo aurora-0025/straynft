@@ -1,7 +1,7 @@
 
 
 
-<p align="center"><img width="150" alt="favicon" src="https://github.com/fal3n-4ngel/Project-Shelter/blob/main/src/assets/logo.png"></p>
+<p align="center"><img width="150" alt="favicon" src="https://github.com/fal3n-4ngel/Project-Shelter/blob/main/src/assets/logo.png?raw=true"></p>
  <h1 align="center">PROJECT SHELTER</h1>
 
  <h2 align="center" >What is Project Shelter?</h1>
